@@ -186,9 +186,9 @@ to-report total-benefits
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
-203
+205
 10
-547
+549
 355
 -1
 -1
@@ -247,9 +247,9 @@ NIL
 1
 
 TEXTBOX
-11
+15
 10
-188
+192
 46
 Control de la simulacion
 15
@@ -445,10 +445,10 @@ NIL
 HORIZONTAL
 
 INPUTBOX
-14
-464
-176
-524
+17
+398
+179
+458
 value-per-unit
 350.0
 1
@@ -497,10 +497,10 @@ total-benefits
 11
 
 INPUTBOX
-14
-404
-176
-464
+17
+338
+179
+398
 material-cost
 30.0
 1
@@ -510,7 +510,7 @@ Number
 PLOT
 566
 351
-915
+919
 537
 Production throttling
 NIL
@@ -587,7 +587,7 @@ SWITCH
 101
 auto-stop
 auto-stop
-0
+1
 1
 -1000
 
@@ -603,9 +603,9 @@ Sensibilidad economica
 
 INPUTBOX
 14
-345
+466
 176
-405
+526
 fixed-dexterity
 61.0
 1
